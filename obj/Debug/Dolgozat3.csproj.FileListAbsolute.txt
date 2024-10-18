@@ -1,0 +1,7 @@
+C:\Users\rizb\Gitwork\Dolgozat3\bin\Debug\Dolgozat3.exe.config
+C:\Users\rizb\Gitwork\Dolgozat3\bin\Debug\Dolgozat3.exe
+C:\Users\rizb\Gitwork\Dolgozat3\bin\Debug\Dolgozat3.pdb
+C:\Users\rizb\Gitwork\Dolgozat3\obj\Debug\Dolgozat3.csproj.AssemblyReference.cache
+C:\Users\rizb\Gitwork\Dolgozat3\obj\Debug\Dolgozat3.csproj.CoreCompileInputs.cache
+C:\Users\rizb\Gitwork\Dolgozat3\obj\Debug\Dolgozat3.exe
+C:\Users\rizb\Gitwork\Dolgozat3\obj\Debug\Dolgozat3.pdb
